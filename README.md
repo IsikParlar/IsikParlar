@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 ## Snake eating my contribution graph
 ![snake gif](https://github.com/IsikParlar/IsikParlar/blob/output/github-contribution-grid-snake.gif)
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
