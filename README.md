@@ -14,6 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Snake eating my contribution graph
-![snake gif](https://github.com/IsikParlar/IsikParlar/blob/output/github-contribution-grid-snake.gif)
+# Github contributions Snake game
+
+> A snake game created out of my Github contributions graph
+
+[![Generate SVG image](https://github.com/IsikParlar/github-contributions-snake/actions/workflows/cron.yml/badge.svg)](https://github.com/scriptex/github-contributions-snake/actions/workflows/cron.yml)
+
+## Preview
+
+<img align="center" width="100%" src="https://raw.githubusercontent.com/IsikParlar/github-contributions-snake/snake/github-contribution-grid-snake.svg" />
 
