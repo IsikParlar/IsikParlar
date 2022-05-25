@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Generate SVG image](https://raw.githubusercontent.com/IsikParlar/github-contributions-snake/snake/github-contribution-grid-snake.svg)]
+![Generate SVG image](https://raw.githubusercontent.com/IsikParlar/github-contributions-snake/snake/github-contribution-grid-snake.svg)
 
 
