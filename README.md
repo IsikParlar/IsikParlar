@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Github contributions Snake game
-
-> A snake game created out of my Github contributions graph
 
 [![Generate SVG image](https://raw.githubusercontent.com/IsikParlar/github-contributions-snake/snake/github-contribution-grid-snake.svg)]
 
