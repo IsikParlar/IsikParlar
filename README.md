@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 
 > A snake game created out of my Github contributions graph
 
-[![Generate SVG image](https://github.com/IsikParlar/github-contributions-snake/actions/workflows/cron.yml/badge.svg)](https://github.com/IsikParlar/github-contributions-snake/actions/workflows/cron.yml)
+[![Generate SVG image](https://raw.githubusercontent.com/IsikParlar/github-contributions-snake/snake/github-contribution-grid-snake.svg)]
 
-## Preview
-
-<img align="center" width="100%" src="https://raw.githubusercontent.com/IsikParlar/github-contributions-snake/snake/github-contribution-grid-snake.svg" />
 
